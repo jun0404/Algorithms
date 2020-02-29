@@ -19,9 +19,9 @@
 
 ***  
 
-[Concepts](https://github.com/jun0404/Algorithms/Concepts) : Algorithms/Optimization Techniques and their Implementations    
+[Concepts](https://github.com/jun0404/Algorithms/tree/master/Concepts) : Algorithms/Optimization Techniques and their Implementations    
 
-[Solutions](https://github.com/jun0404/Algorithms/Solutions) : Solutions to well-known online judge problems and competitions  
+Solutions : Solutions to well-known online judge problems and competitions  
 
 ***
 
