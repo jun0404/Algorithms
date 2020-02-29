@@ -17,17 +17,11 @@
 
 ### Table of Contents
 
-***
+***  
 
-(To be modified)
+[Concepts] : Algorithms/Optimization Techniques and their Implementations    
 
-Algorithms and optimization techniques
-
-Implementations
-
-Solutions
-
-
+[Solutions] : Solutions to well-known online judge problems and competitions  
 
 ***
 
